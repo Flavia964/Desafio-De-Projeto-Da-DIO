@@ -1,0 +1,7 @@
+# Desafio: Criar seu primeiro repositório no GitHub, utilizando o GitBash comos comandos básicos.
+
+*Git Clone
+*Git Status
+*Git add
+*Git commit -m (Para comitar e escrever uma mensagem. obs: Colocar comentários coerentes.)
+*Git push
